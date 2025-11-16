@@ -112,7 +112,7 @@ const ModernPage = () => {
           ))}
         </div>
       </div>
-    </div>
+    </div> 
   );
 };
 
